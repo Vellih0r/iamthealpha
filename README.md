@@ -1,6 +1,7 @@
-# iamthealpha
-## and iamtheomega
+## I am the aplha
+## and I am the omega
 
+---------------------
 
 # We want to do game
 maybe we`ll use godot.
