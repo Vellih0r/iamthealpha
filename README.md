@@ -3,8 +3,8 @@
 
 ---------------------
 
-# We want to do game
-maybe we`ll use godot.
+# We want to do a game
+### maybe we`ll use godot.
 
 ## Authors
 
