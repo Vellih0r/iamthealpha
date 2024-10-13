@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://vpvo34kabaj3"]
+
+[ext_resource type="Texture2D" uid="uid://dnpy2cl7v34m6" path="res://kapi.jpeg" id="1_ca7yp"]
+[ext_resource type="Script" path="res://move.gd" id="2_iq5q1"]
+
+[node name="Kapi" type="Sprite2D"]
+position = Vector2(473, 302)
+scale = Vector2(53.7187, 17.3125)
+texture = ExtResource("1_ca7yp")
+script = ExtResource("2_iq5q1")
